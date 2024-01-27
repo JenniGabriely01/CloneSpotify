@@ -1,0 +1,11 @@
+@media screen and (max-width: 1440px) {
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 1174px) {
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr;
+    }
+}
