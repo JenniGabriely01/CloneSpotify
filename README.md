@@ -2,6 +2,16 @@
 
 
 
+## Funcionalidade
+
+:heavy_check_mark: Uso de uma API para a barra de pesquisar ser funcional  
+
+
+
+<hr/>
+
+
+
 ## Como rodar a aplicação :arrow_forward:
 
 
