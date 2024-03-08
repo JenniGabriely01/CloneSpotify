@@ -34,7 +34,7 @@ instalar - npm install json-server@0.17.4 -g
 
 Inicie o json-server com o comando
 ```
-json-server --watch api-artists/artists.json --port 3000.
+json-server --watch api-artists/artists.json --port 3000
 ```
 
 abra o
