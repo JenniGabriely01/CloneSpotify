@@ -4,9 +4,15 @@
 
 ## Funcionalidade
 
-:heavy_check_mark: Uso de uma API para a barra de pesquisar ser funcional  
+:heavy_check_mark: Uso de uma API para a barra de pesquisar
 
+## Como ultilizar
 
+:heavy_check_mark: Na barra de pesquisa, digite o nome de algum artista que esteja na API (arquivo .json)
+
+## Pré-requisitos
+
+:warning: [Node](https://nodejs.org/en/download/)
 
 <hr/>
 
