@@ -24,7 +24,7 @@
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone = https://github.com/JenniGabriely01/CloneSpotify.git
 
 ```
 Certifique-se de ter o json-server instalado com o comando:
